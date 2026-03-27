@@ -11,7 +11,7 @@ I am a passionate learner currently diving deep into the world of **Programming 
 - **Languages:** HTML5, CSS3, JavaScript, Python (Learning)
 - **Tools:** VS Code, Git, GitHub
 
-### 📈 Goals for 2024-2025:
+### 📈 Goals for 2026-2027
 - Build my first Machine Learning model.
 - Contribute to Open Source projects.
 - Document my coding journey on LinkedIn.
