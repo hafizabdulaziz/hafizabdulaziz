@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Abdul Aziz! 👋
 
-<!--
-**hafizabdulaziz/hafizabdulaziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate learner currently diving deep into the world of **Programming and Artificial Intelligence**. Having completed foundational training in Web Development and Python, I am now focusing on mastering **AI and Machine Learning**.
 
-Here are some ideas to get you started:
+### ⚡ What I'm working on:
+- 🐍 Mastering **Python** for Data Science.
+- 🌐 Building responsive web projects.
+- 🤖 Learning the basics of **Machine Learning** and Neural Networks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools:
+- **Languages:** HTML5, CSS3, JavaScript, Python (Learning)
+- **Tools:** VS Code, Git, GitHub
+
+### 📈 Goals for 2024-2025:
+- Build my first Machine Learning model.
+- Contribute to Open Source projects.
+- Document my coding journey on LinkedIn.
+
+---
+*“The best way to predict the future is to invent it.”*
