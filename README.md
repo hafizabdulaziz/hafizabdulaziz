@@ -1,51 +1,52 @@
+# Hafiz Abdul Aziz
+## AI-Native Engineer 🤖 | Architecting Autonomous Systems
 
-# Hi there! 👋 I'm Abdul Aziz
+I build the deterministic infrastructure that enables LLMs to move from **probabilistic chat** to **reliable execution**. My focus is on engineering high-performance, type-safe autonomous systems and **Model Context Protocol (MCP)** integrations that bridge the gap between reasoning and action.
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=hafizabdulaziz&label=Profile%20views&color=0e75b6&style=flat" alt="hafizabdulaziz" />
-</p>
-
-### 🤖 AI-Native Software Engineer | Agentic AI Specialist | Python Developer
-
-I am a passionate developer from Pakistan, dedicated to building intelligent, autonomous solutions. Currently, I am mastering **Agentic AI** at **Panaversity**, focusing on building multi-agent systems and leveraging **Spec-Driven Development (SDD)** to create scalable, high-impact software.
+I don't just "use" AI; I engineer the environments where AI can operate with production-grade reliability.
 
 ---
 
-### 🏥 Domain Expertise: Healthcare & Pharmacy
-With **3 years of professional experience in Pharmacy**, I bring a unique perspective to the tech world. My goal is to bridge the gap between healthcare expertise and cutting-edge AI, developing solutions that solve real-world medical and operational challenges.
+### 🧠 Core Engineering Philosophy
+- **Determinism over Probability:** I build rigid architectural boundaries around LLMs to eliminate hallucinations in critical execution paths.
+- **Spec-Driven Development (SDD):** I believe in rigorous upfront specification to ensure system integrity and maintainability.
+- **Agentic Tooling:** Designing "skills" (tools) that are optimized for LLM discovery and execution, not just human use.
+- **Composition over Complexity:** Leveraging Multi-Agent Systems (MAS) to decompose complex goals into manageable, verifiable sub-tasks.
 
 ---
 
-### 🚀 What I'm Working On
-- 🔭 **Agentic AI:** Building autonomous AI agents using the **Antigravity CLI** and **Spec Kit Plus**.
-- 🛠️ **Spec-Driven Development:** Treating specifications as first-class citizens to ensure robust and predictable software.
-- 🐍 **Advanced Python:** Crafting efficient CLI tools and automated systems.
+### 🛠 Technical Arsenal
+
+| Layer | Technology Stack | Focus Area |
+| :--- | :--- | :--- |
+| **Core** | Python 3.13+, TypeScript, Rust (Learning) | High-performance, type-safe backend engineering. |
+| **Agentic** | MCP, LangGraph, OpenAI Assistants API | Tool-use optimization, state management, MAS. |
+| **Infra** | FastAPI, UV, Pytest (TDD), Docker | Deterministic deployments, blazing-fast dev cycles. |
+| **Architect** | Spec-Driven Development, ADRs, System Design | Scalable, maintainable autonomous architectures. |
 
 ---
 
-### 🛠 My Tech Stack
+### 🚀 Featured Production Work
 
-- **AI & Automation:** ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-Frameworks-orange) ![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-blue) ![Spec Kit Plus](https://img.shields.io/badge/Spec%20Kit%20Plus-SDD-green)
-- **Languages:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-- **Tools:** ![Antigravity CLI](https://img.shields.io/badge/Antigravity-CLI-black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hafizabdulaziz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafizabdulaziz&layout=compact&theme=tokyonight" />
-</p>
+#### [Agentic Calculator Core](https://github.com/hafizabdulaziz/agentic-calculator-core)
+**Role:** Lead Engineer & Architect
+- Engineered a deterministic math engine specifically for AI Agents.
+- Implemented robust error boundaries to prevent LLM arithmetic failures.
+- Full MCP integration for seamless tool-use in autonomous workflows.
+- **Impact:** Reduced mathematical hallucination rates to 0% for supported operations.
 
 ---
 
-### 📫 Let's Connect!
-
-- **LinkedIn:** [hafizabdulaziz](https://www.linkedin.com/in/hafiz-abdul-aziz-8874132b3/)
-- **Email:** [abdulazizmemon888@gmail.com](mailto:abdulazizmemon888@gmail.com)
+### 📈 Current Trajectory
+- 🏗️ **Scaling MAS:** Researching advanced orchestration patterns for heterogeneous agent teams.
+- 🔌 **MCP Ecosystem:** Expanding the library of specialized MCP servers for enterprise data access.
+- ⚙️ **Autonomous Pipelines:** Building end-to-end agentic workflows for software engineering automation.
 
 ---
-<p align="center">
-  <i>"Building the future, one autonomous agent at a time."</i>
-</p>
+
+### 🤝 Connect & Collaborate
+- **GitHub:** [hafizabdulaziz](https://github.com/hafizabdulaziz)
+- **LinkedIn:** [Hafiz Abdul Aziz](https://linkedin.com/in/hafizabdulaziz)
+- **Focus:** AI Agents / MCP / Autonomous Systems / Python Engineering
+
+*“Engineering the deterministic substrate for the autonomous era.”*
