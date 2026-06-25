@@ -46,7 +46,7 @@ I don't just "use" AI; I engineer the environments where AI can operate with pro
 
 ### 🤝 Connect & Collaborate
 - **GitHub:** [hafizabdulaziz](https://github.com/hafizabdulaziz)
-- **LinkedIn:** [Hafiz Abdul Aziz](https://linkedin.com/in/hafizabdulaziz)
+- **LinkedIn:** [Hafiz Abdul Aziz](https://linkedin.com/in/hafizabdulaziz33)
 - **Focus:** AI Agents / MCP / Autonomous Systems / Python Engineering
 
 *“Engineering the deterministic substrate for the autonomous era.”*
