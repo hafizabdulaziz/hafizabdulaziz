@@ -26,7 +26,7 @@ I don't just "use" AI; I engineer the environments where AI can operate with pro
 
 ---
 
-### 🚀 Featured Production Work
+### 🚀 Featured Engineering Work
 
 #### [Agentic Calculator Core](https://github.com/hafizabdulaziz/agentic-calculator-core)
 **Role:** Lead Engineer & Architect
@@ -34,6 +34,13 @@ I don't just "use" AI; I engineer the environments where AI can operate with pro
 - Implemented robust error boundaries to prevent LLM arithmetic failures.
 - Full MCP integration for seamless tool-use in autonomous workflows.
 - **Impact:** Reduced mathematical hallucination rates to 0% for supported operations.
+
+#### [Academic Management System](https://github.com/hafizabdulaziz/rhombixtechnologies_academic_management_system)
+**Role:** Software Architect & Lead Developer
+- Restored and modularized a monolithic legacy system into a robust, role-based architecture.
+- Enforced strict RBAC and cryptographic security protocols.
+- Implemented automated grading engines, PDF reporting, and comprehensive test suites.
+- **Impact:** Improved system maintainability and established a foundation for future scalability.
 
 ---
 
