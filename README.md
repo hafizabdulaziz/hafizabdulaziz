@@ -53,11 +53,13 @@ Across my project repositories, I have designed and implemented several function
 ## Selected Technical Work
 
 - [AIDesk: AI-Powered Customer Support Platform](https://github.com/hafizabdulaziz/AIDesk-AI-Powered-Customer-Support-Platform): Customer support platform built with FastAPI and LangChain for automated ticket management.
-- [Career Intelligence Agent](https://github.com/hafizabdulaziz/career-intelligence-agent): Multi-agent advisory platform utilizing Gemini LLMs for career analysis and guidance.
-- [Agentic Calculator Core](https://github.com/hafizabdulaziz/agentic-calculator-core): Core computation engine structured for tool-use integration in agentic workflows.
-- [Complex Rule Orchestrator](https://github.com/hafizabdulaziz/complex-rule-orchestrator): Python-based orchestration layer for evaluating and managing complex decision rules.
-- [Academic Management System](https://github.com/hafizabdulaziz/rhombixtechnologies_academic_management_system): Backend system for student record management and grade tracking.
 - [Voice Assistant and Automation Tasks](https://github.com/hafizabdulaziz/rhombixtechnologies_tasks): Voice assistant integrating speech recognition and local LLM execution via Ollama.
+- [Rhombix ResumeScreener Pro](https://github.com/hafizabdulaziz/rhombix-task-resume-screener): Automated resume screening and candidate evaluation platform built with FastAPI and asynchronous processing.
+- [Academic Management System](https://github.com/hafizabdulaziz/rhombixtechnologies_academic_management_system): Backend system for student record management and grade tracking.
+- [REST API Engine](https://github.com/hafizabdulaziz/decodelabs-task1-rest-api-engine): Asynchronous RESTful microservice built with FastAPI and SQLAlchemy for structured data persistence.
+- [Sentinel Auth Vault](https://github.com/hafizabdulaziz/decodelabs-sentinel-auth-vault): Asynchronous authentication service featuring JWT, multi-factor authentication, and security middleware.
+- [Task Flow Backend](https://github.com/hafizabdulaziz/decodelabs-task-flow-backend): Asynchronous FastAPI backend service providing RESTful task management and role-based access control.
+- [Data Vault Engine](https://github.com/hafizabdulaziz/decodelabs-task2-data-vault): Relational state persistence layer and secure data vault service built with FastAPI.
 
 ## Current Learning and Development Focus
 
