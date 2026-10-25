@@ -1,74 +1,128 @@
 # Abdul Aziz
 
-AI-Native Engineer | Python Developer | Autonomous AI Systems & Backend Architecture
+**AI Engineer in Progress | Python Backend Developer | LLMs & Agentic AI Systems**
 
-## Professional Introduction
+I build Python-based backend applications and explore how AI, large language models, and agentic workflows can solve practical problems. My work combines backend development, API design, data handling, LLM integration, and automation. Through hands-on projects and internship experience, I am developing my skills in building reliable applications that connect AI capabilities with real-world software systems.
 
-I am a software engineer focused on Python development, backend architecture, and autonomous AI systems. My work connects traditional backend engineering with LLM orchestration, Model Context Protocol (MCP), and multi-agent coordination. I build structured, maintainable applications designed to address concrete technical problems through clean code, structured APIs, and modular design.
+## About Me
 
-## Engineering Journey
+My primary interests are AI engineering, LLM-powered applications, and agentic systems, supported by a strong focus on backend development.
 
-My development journey is centered on Python software engineering, backend service design, and applied AI systems. This foundation is currently being expanded through participation in the Agentic AI program at Panaversity, where I am studying multi-agent architectures, tool-use integration, and autonomous execution loops.
+I work with Python to build APIs, application logic, data-processing systems, and AI-integrated tools. I am particularly interested in how LLMs can use tools, coordinate workflows, and support practical applications beyond simple text generation.
 
-## Technical Focus
+Alongside AI development, I focus on backend fundamentals such as API design, data validation, database integration, modular architecture, and testing. I believe useful AI applications need more than a model: they also need reliable backend systems, clear interfaces, and well-structured application logic.
 
-My engineering work targets specific technical domains:
+## Internship Experience
 
-- Backend Development & APIs: Designing REST APIs and backend services using FastAPI, with Pydantic for data validation and request serialization.
-- Autonomous & Agentic Systems: Building multi-agent coordination frameworks and tool-calling execution loops where LLMs interact with external systems and operational logic.
-- Protocol Integration & Retrieval: Exploring Model Context Protocol (MCP) integrations and Retrieval-Augmented Generation (RAG) pipelines for contextual knowledge retrieval.
-- Spec-Driven Development: Emphasizing architectural planning, precise system specifications, and requirement analysis before writing implementation code.
+My internships at **Rhombix Technologies** and **DecodeLabs** have been important parts of my practical software development journey. Through project-based work, I have gained exposure to backend systems, application development, automation, and AI-related tooling.
 
-## Engineering Philosophy and Working Approach
+### Rhombix Technologies
 
-My approach to building software prioritizes maintainability and reliability:
+My work associated with Rhombix Technologies includes practical application development and backend-oriented projects.
 
-- Modular Architecture: Decomposing systems into clear modules, services, and core calculation engines to ensure separation of concerns.
-- Rigorous Validation: Using strong typing and Pydantic validation models to enforce data integrity across backend boundaries.
-- Testing & Verification: Implementing unit and behavioral tests to ensure code correctness and prevent regressions.
-- Iterative Refinement: Developing systems through incremental testing and specification-driven planning.
+- **Academic Management System:** Worked on a system for managing student records and academic grades.
+- **Resume Screener:** Worked on an application focused on resume screening and candidate evaluation.
+- **Voice Assistant and Automation:** Explored speech recognition and local LLM execution using Ollama.
+- **GeoTrace:** Developed a project represented by the GeoTrace repository.
 
-## Technical Skills and Areas of Study
+These projects helped me work with application logic, data handling, backend functionality, and the integration of different technical components.
 
-- Programming Languages: Python, TypeScript, JavaScript, SQL
-- Backend & APIs: FastAPI, RESTful services, Pydantic
-- AI & Agentic Systems: LangChain, Model Context Protocol (MCP), LLM orchestration, RAG, function calling
-- Databases & Storage: SQLite, relational data modeling
-- Developer Tools & Practices: Git, Spec-Driven Development
+### DecodeLabs
 
-## Practical Engineering Experience
+At DecodeLabs, my project work has focused on backend services, APIs, data persistence, authentication, and application infrastructure.
 
-Across my project repositories, I have designed and implemented several functional systems:
+- **REST API Engine:** Worked with FastAPI and SQLAlchemy to build an asynchronous API service for structured data persistence.
+- **Sentinel Auth Vault:** Worked on an authentication service involving JWT, multi-factor authentication, and security middleware.
+- **Data Vault Engine:** Worked on a backend service for relational data persistence and data management.
+- **Task Flow Backend:** Worked on a task management backend with REST APIs and role-based access control.
 
-- Automated Support Systems: Built backend architectures using FastAPI and LangChain to support ticket triage and query responses.
-- Multi-Agent Platforms: Implemented agentic coordination frameworks leveraging Gemini LLMs for analytical tasks and workflow structuring.
-- Core Calculation Engines: Engineered deterministic calculation modules and rule evaluation layers designed for integration into agentic workflows.
-- Application Utilities: Developed backend services for academic record tracking, student data management, and speech recognition tool integration.
+This work has strengthened my practical exposure to backend architecture, API development, authentication, asynchronous programming, and data management.
 
-## Internship Experience: Rhombix Technologies and DecodeLabs
+## AI & Agentic Systems
 
-- Rhombix Technologies: Contributed to backend development tasks and practical software solutions, including academic management applications and automation scripts.
-- DecodeLabs: Participated in software development and AI integration tasks, exploring speech recognition tooling and local LLM execution environments.
+AI engineering is the direction I am actively pursuing. My interests include building applications that use LLMs as part of a larger software system.
 
-## Selected Technical Work
+Areas I work with or explore include:
 
-- [AIDesk: AI-Powered Customer Support Platform](https://github.com/hafizabdulaziz/AIDesk-AI-Powered-Customer-Support-Platform): Customer support platform built with FastAPI and LangChain for automated ticket management.
-- [Voice Assistant and Automation Tasks](https://github.com/hafizabdulaziz/rhombixtechnologies_tasks): Voice assistant integrating speech recognition and local LLM execution via Ollama.
-- [Rhombix ResumeScreener Pro](https://github.com/hafizabdulaziz/rhombix-task-resume-screener): Automated resume screening and candidate evaluation platform built with FastAPI and asynchronous processing.
-- [Academic Management System](https://github.com/hafizabdulaziz/rhombixtechnologies_academic_management_system): Backend system for student record management and grade tracking.
-- [REST API Engine](https://github.com/hafizabdulaziz/decodelabs-task1-rest-api-engine): Asynchronous RESTful microservice built with FastAPI and SQLAlchemy for structured data persistence.
-- [Sentinel Auth Vault](https://github.com/hafizabdulaziz/decodelabs-sentinel-auth-vault): Asynchronous authentication service featuring JWT, multi-factor authentication, and security middleware.
-- [Task Flow Backend](https://github.com/hafizabdulaziz/decodelabs-task-flow-backend): Asynchronous FastAPI backend service providing RESTful task management and role-based access control.
-- [Data Vault Engine](https://github.com/hafizabdulaziz/decodelabs-task2-data-vault): Relational state persistence layer and secure data vault service built with FastAPI.
+- LLM integration and application workflows
+- Tool calling and function calling
+- Agentic workflows and multi-agent coordination
+- LangChain and AI application orchestration
+- Model Context Protocol (MCP)
+- Retrieval-Augmented Generation (RAG)
+- Integrating AI capabilities with Python backend services
 
-## Current Learning and Development Focus
+My goal is to build practical AI-powered applications where models work alongside structured application logic, APIs, tools, and data sources.
 
-- Advancing proficiency in Model Context Protocol (MCP) standards and multi-agent coordination architectures.
-- Deepening expertise in Python system design and robust LLM orchestration patterns.
-- Continuing structured learning through the Panaversity Agentic AI program.
+## Backend Engineering
+
+Backend development is an important part of how I build and integrate AI applications.
+
+My technical focus includes:
+
+- Designing REST APIs and backend services with FastAPI
+- Request validation and data modelling with Pydantic
+- Asynchronous application development
+- SQLAlchemy and relational data persistence
+- Authentication and access-control concepts
+- Modular application architecture
+- Testing, debugging, and incremental improvement
+
+I aim to develop backend systems that are understandable, maintainable, and suitable for integration with other application components.
+
+## Selected Projects
+
+### AI-Powered Customer Support Platform
+[View Repository](https://github.com/hafizabdulaziz/AIDesk-AI-Powered-Customer-Support-Platform)
+
+A customer support application built around FastAPI and LangChain, focused on ticket management, triage, and AI-assisted query handling.
+
+### Career Intelligence Agent
+[View Repository](https://github.com/hafizabdulaziz/career-intelligence-agent)
+
+An AI-based career advisory project using Gemini models to support career analysis and guidance through an agent-oriented approach.
+
+### Agentic Calculator Core
+[View Repository](https://github.com/hafizabdulaziz/agentic-calculator-core)
+
+A calculation engine intended to provide structured computation capabilities for integration into agentic workflows.
+
+### Complex Rule Orchestrator
+[View Repository](https://github.com/hafizabdulaziz/complex-rule-orchestrator)
+
+A Python project focused on orchestrating and evaluating complex decision rules.
+
+### Additional Project Work
+
+- [Resume Screener](https://github.com/hafizabdulaziz/rhombix-task-resume-screener)
+- [Academic Management System](https://github.com/hafizabdulaziz/rhombixtechnologies_academic_management_system)
+- [Voice Assistant and Automation Tasks](https://github.com/hafizabdulaziz/rhombixtechnologies_tasks)
+- [DecodeLabs REST API Engine](https://github.com/hafizabdulaziz/decodelabs-task1-rest-api-engine)
+- [DecodeLabs Sentinel Auth Vault](https://github.com/hafizabdulaziz/decodelabs-sentinel-auth-vault)
+- [DecodeLabs Data Vault Engine](https://github.com/hafizabdulaziz/decodelabs-task2-data-vault)
+- [DecodeLabs Task Flow Backend](https://github.com/hafizabdulaziz/decodelabs-task-flow-backend)
+
+## Technical Skills
+
+- **Languages:** Python, JavaScript, TypeScript, SQL
+- **Backend Development:** FastAPI, REST APIs, Pydantic, asynchronous programming
+- **AI & LLMs:** LangChain, Gemini integration, LLM orchestration, tool calling, agentic workflows
+- **AI Concepts of Interest:** MCP, RAG, multi-agent systems
+- **Databases:** SQLAlchemy, SQLite, relational data modelling
+- **Tools & Practices:** Git, testing, debugging, modular design, specification-driven development
+
+## Current Focus
+
+I am continuing to develop my capabilities in AI engineering and backend development, with particular interest in:
+
+- Building practical LLM-powered applications
+- Connecting AI models with APIs, tools, and external systems
+- Understanding agentic architecture and multi-agent workflows
+- Improving backend design, reliability, and testing
+- Developing projects that demonstrate practical engineering skills
 
 ## Professional Links
 
-- GitHub: [GitHub Profile](https://github.com/hafizabdulaziz)
-- LinkedIn: [Hafiz Abdul Aziz](https://linkedin.com/in/hafizabdulaziz33)
-- Location: Karachi, Pakistan
+- **GitHub:** [hafizabdulaziz](https://github.com/hafizabdulaziz)
+- **LinkedIn:** [Hafiz Abdul Aziz](https://linkedin.com/in/hafizabdulaziz33)
+- **Location:** Karachi, Pakistan
